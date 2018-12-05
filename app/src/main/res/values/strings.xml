@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music_app</string>
+    <string name="Song_activity">Media</string>
+    <string name="Artist_activity">Artists</string>
+    <string name="Album_activity">Albums</string>
+    <string name="media_category">Media</string>
+    <string name="artist_category">Artists</string>
+    <string name="album_category">Albums</string>
+    <string name="currently_playing">Currently Playing</string>
+</resources>
